@@ -19,7 +19,6 @@ Keep in mind that in my work schedule I mostly work with private repositories.
 ##  GitHub Stats
 Keep in mind that in my work schedule I mostly work with private repositories.
 
-<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicajilau&theme=dark" />
 </a>
