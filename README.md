@@ -1,5 +1,5 @@
 ### 👋 Hello! I'm Victor 🧑‍💻
-iOS, Android o Flutter. A native mobile technology enthusiast. 
+iOS, Android and Flutter Engineer. A native mobile technology enthusiast. 
 
 - 🔭 I’m currently working as Mobile Chapter Lead at [Capgemini](https://www.capgemini.com/).
 - 🌱 I'm always learning and discovering any new mobile technology within the Flutter, iOS and Android.
