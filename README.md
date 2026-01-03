@@ -13,14 +13,14 @@ Mobile Architect - Flutter, iOS and Android Engineer. A native mobile technology
 Keep in mind that in my work schedule I mostly work with private repositories. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ten-silk-35.vercel.app/api/top-langs/?username=vicajilau&layout=compact&theme=dark" />
+    <img align="center" src="https://github-readme-stats-ten-silk-35.vercel.app/api/top-langs/?username=vicajilau&layout=compact&theme=dark" />
 </a>
 
 ##  GitHub Stats
 Keep in mind that in my work schedule I mostly work with private repositories. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ten-silk-35.vercel.app/api?username=vicajilau&theme=dark" />
+    <img align="center" src="https://github-readme-stats-ten-silk-35.vercel.app/api?username=vicajilau&theme=dark" />
 </a>
 
 ##  Wakatime Stats Card
