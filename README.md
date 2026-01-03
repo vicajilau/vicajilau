@@ -10,20 +10,20 @@ Mobile Architect - Flutter, iOS and Android Engineer. A native mobile technology
 - 📫 You can reach me in any of them or also through [email](mailto:keys.01yacht@icloud.com?subject=[GitHub]).
 
 ##  Most used languages
-Keep in mind that in my work schedule I mostly work with private repositories.
+Keep in mind that in my work schedule I mostly work with private repositories. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicajilau&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats-ten-silk-35.vercel.app/api/top-langs/?username=vicajilau&layout=compact&theme=dark" />
 </a>
 
 ##  GitHub Stats
-Keep in mind that in my work schedule I mostly work with private repositories.
+Keep in mind that in my work schedule I mostly work with private repositories. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicajilau&theme=dark" />
+  <img align="center" src="https://github-readme-stats-ten-silk-35.vercel.app/api?username=vicajilau&theme=dark" />
 </a>
 
 ##  Wakatime Stats Card
 You can see how much time I spend developing tools, frameworks and mobile applications.
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vicajilau&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-ten-silk-35.vercel.app/api/wakatime?username=vicajilau&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
