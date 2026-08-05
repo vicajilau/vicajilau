@@ -12,18 +12,18 @@ Mobile Architect - Flutter, iOS and Android Engineer. A native mobile technology
 ##  Most used languages
 Keep in mind that in my work schedule I mostly work with private repositories. 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-ten-silk-35.vercel.app/api/top-langs/?username=vicajilau&layout=compact&theme=dark" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+    <img align="center" src="./profile/top-langs.svg" alt="Vicajilau's Top Languages" />
 </a>
 
 ##  GitHub Stats
 Keep in mind that in my work schedule I mostly work with private repositories. 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-ten-silk-35.vercel.app/api?username=vicajilau&theme=dark" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+    <img align="center" src="./profile/stats.svg" alt="Vicajilau's GitHub Stats" />
 </a>
 
 ##  Wakatime Stats Card
 You can see how much time I spend developing tools, frameworks and mobile applications.
 
-[![Harlok's wakatime stats](https://github-readme-stats-ten-silk-35.vercel.app/api/wakatime?username=vicajilau&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](./profile/wakatime.svg)](https://github.com/stats-organization/github-stats-extended)
