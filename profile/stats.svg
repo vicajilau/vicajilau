@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Victor Carreras&#39; GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 2038, Total Commits  (last year) : 2744, Total PRs: 511, Total Issues: 150, Contributed to (last year): 30</desc>
+        <desc id="descId">Total Stars Earned: 2038, Total Commits  (last year) : 2737, Total PRs: 511, Total Issues: 150, Contributed to (last year): 30</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 4.960992266770795;
+        stroke-dashoffset: 4.961399823534884;
       }
     }
   
