@@ -135,11 +135,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >4 hrs 52 mins</text>
+      >4 hrs 50 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="25.45%">
+      <svg data-testid="lang-progress" width="27.04%">
         <rect
             height="8"
             
@@ -153,16 +153,16 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Other">Other:</text>
+      <text class="stat bold" y="12.5" data-testid="Python">Python:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >4 hrs 32 mins</text>
+      >3 hrs 55 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="23.67%">
+      <svg data-testid="lang-progress" width="21.91%">
         <rect
             height="8"
             
@@ -176,16 +176,16 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Python">Python:</text>
+      <text class="stat bold" y="12.5" data-testid="Other">Other:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >4 hrs 28 mins</text>
+      >3 hrs 40 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="23.3%">
+      <svg data-testid="lang-progress" width="20.54%">
         <rect
             height="8"
             
@@ -208,7 +208,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="6.18%">
+      <svg data-testid="lang-progress" width="6.61%">
         <rect
             height="8"
             
@@ -231,7 +231,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="5.44%">
+      <svg data-testid="lang-progress" width="5.82%">
         <rect
             height="8"
             
@@ -254,7 +254,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="3.9%">
+      <svg data-testid="lang-progress" width="4.17%">
         <rect
             height="8"
             
@@ -277,7 +277,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="2.22%">
+      <svg data-testid="lang-progress" width="2.38%">
         <rect
             height="8"
             
@@ -300,7 +300,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="2.12%">
+      <svg data-testid="lang-progress" width="2.26%">
         <rect
             height="8"
             
@@ -337,7 +337,7 @@
     </g>
   </g><g transform="translate(0, 225)">
     <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Kotlin">Kotlin:</text>
+      <text class="stat bold" y="12.5" data-testid="JSON">JSON:</text>
       <text
         class="stat"
         x="350"
@@ -360,12 +360,12 @@
     </g>
   </g><g transform="translate(0, 250)">
     <g class="stagger" style="animation-delay: 1950ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Bash">Bash:</text>
+      <text class="stat bold" y="12.5" data-testid="Kotlin">Kotlin:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >16 mins</text>
+      >18 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
@@ -383,12 +383,12 @@
     </g>
   </g><g transform="translate(0, 275)">
     <g class="stagger" style="animation-delay: 2100ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="INI">INI:</text>
+      <text class="stat bold" y="12.5" data-testid="Bash">Bash:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >12 mins</text>
+      >16 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
@@ -406,12 +406,12 @@
     </g>
   </g><g transform="translate(0, 300)">
     <g class="stagger" style="animation-delay: 2250ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Objective-C">Objective-C:</text>
+      <text class="stat bold" y="12.5" data-testid="INI">INI:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >9 mins</text>
+      >12 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
@@ -429,12 +429,12 @@
     </g>
   </g><g transform="translate(0, 325)">
     <g class="stagger" style="animation-delay: 2400ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="JSON">JSON:</text>
+      <text class="stat bold" y="12.5" data-testid="Objective-C">Objective-C:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >8 mins</text>
+      >9 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
