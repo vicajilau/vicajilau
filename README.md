@@ -1,29 +1,21 @@
-### 👋 Hello! I'm Victor 🧑‍💻
-Mobile Architect - Flutter, iOS and Android Engineer. A native mobile technology enthusiast. 
+### Hi, I'm Víctor Carreras Jiménez
 
-- 🔭 I’m currently working as Mobile CTO at [Capgemini Spain](https://www.capgemini.com/).
-- 🌱 I'm always learning and discovering any new mobile technology within the Flutter, iOS and Android.
-- 👯 I always look forward to working with others on projects that sound exciting and fun.
-- 🧑‍🏫 I contribute to different communities as a speaker and trainer in mobile technology.
-- 💬 I spread the word about mobile technology on [my personal blog](https://www.victorcarreras.dev/).
-- 🕵️ You can find me in any of my social networks linked in my profile.
-- 📫 You can reach me in any of them or also through [email](mailto:keys.01yacht@icloud.com?subject=[GitHub]).
+**Mobile Architect & Senior Engineer · iOS, Flutter & Android · Server-Driven UI (SDUI) & GenUI · Google Developer Expert (GDE)**
 
-##  Most used languages
-Keep in mind that in my work schedule I mostly work with private repositories. 
+I design and scale mobile architectures and client foundations across **iOS (Swift, Objective-C)**, **Flutter (Dart)**, and **Android (Kotlin)**, backed by high-performance data and serialization layers (**GraphQL, gRPC, Protocol Buffers, FlatBuffers**). My work focuses on **Server-Driven UI (SDUI)**, **Generative UI (GenUI)**, and **Software Product Lines**—bridging production enterprise engineering with open source and academic research.
 
-<a href="https://github.com/stats-organization/github-stats-extended">
-    <img align="center" src="./profile/top-langs.svg" alt="Vicajilau's Top Languages" />
-</a>
+- **Architecture & Leadership:** Principal Mobile Architect & Mobile Chapter Lead at [Capgemini](https://www.capgemini.com/), designing enterprise mobile architectures and leading engineering standards across large-scale iOS, Android, and cross-platform portfolios.
+- **Academic Research (Ph.D. Track):** Pursuing an **M.S. in Software Engineering Research (UNED)**—authoring a research paper on **Automatic Code Generation** and **Software Product Lines (SPL)** for scalable multi-platform UI systems.
+- **Community & Speaking:** **Google Developer Expert (GDE)**, international conference speaker (*Mobile World Congress (MWC), FlutterConf Spain, Codemotion, GDG DevFests*), **Google Summer of Code** mentor, and technical author at [victorcarreras.dev](https://www.victorcarreras.dev/).
+- **Contact:** [LinkedIn](https://www.linkedin.com/in/vicajilau/) · [Blog](https://www.victorcarreras.dev/) · [Email](mailto:vicajilau@gmail.com?subject=[GitHub])
 
-##  GitHub Stats
-Keep in mind that in my work schedule I mostly work with private repositories. 
+---
 
-<a href="https://github.com/stats-organization/github-stats-extended">
-    <img align="center" src="./profile/stats.svg" alt="Vicajilau's GitHub Stats" />
-</a>
+### Open Source Impact & Engineering Activity
+<sub>Note: Most of my enterprise mobile and client-architecture work lives in private client repositories; the metrics below reflect open-source and public engineering activity.</sub>
 
-##  Wakatime Stats Card
-You can see how much time I spend developing tools, frameworks and mobile applications.
-
-[![Harlok's wakatime stats](./profile/wakatime.svg)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="./profile/stats.svg" alt="Víctor Carreras's GitHub Stats" />
+  </a>
+</p>
