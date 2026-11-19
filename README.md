@@ -1,7 +1,7 @@
 ### 👋 Hello! I'm Victor 🧑‍💻
 Mobile Architect - Flutter, iOS and Android Engineer. A native mobile technology enthusiast. 
 
-- 🔭 I’m currently working as DCX Mobile CTO at [Capgemini](https://www.capgemini.com/).
+- 🔭 I’m currently working as Mobile CTO at [Capgemini Spain](https://www.capgemini.com/).
 - 🌱 I'm always learning and discovering any new mobile technology within the Flutter, iOS and Android.
 - 👯 I always look forward to working with others on projects that sound exciting and fun.
 - 🧑‍🏫 I contribute to different communities as a speaker and trainer in mobile technology.
